@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f1825325-b3fc-4c0d-bbec-af2d632f7f54" name="admin@ADMIN-PC 2015-10-09 09:53:25" runUser="admin-PC\admin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="e94d40cc-ba1c-49e7-b953-c9a79a8d36ef">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="admin_ADMIN-PC 2015-10-09 09_53_25">
+      <DeploymentItem filename="C:\wells Fargo\Git\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuiz\bin\Debug\ArithmeticQuiz.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-10-09T09:53:25.9054069+05:30" queuing="2015-10-09T09:53:25.9214078+05:30" start="2015-10-09T09:53:25.9244080+05:30" finish="2015-10-09T09:53:26.0604158+05:30" />
+  <ResultSummary outcome="Failed">
+    <Counters total="3" executed="3" passed="1" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestIfStartPointExists" storage="c:\wells fargo\git\tdd_arithmeticquiz\arithmeticquiz\arithmeticquiztests\bin\debug\arithmeticquiztests.dll" id="92daae77-59eb-29b4-38e0-38c2ca6f7558">
+      <Execution id="f1e2e627-1617-49f8-b016-a85f9a5a9f74" />
+      <TestMethod codeBase="C:/wells Fargo/Git/TDD_ArithmeticQuiz/ArithmeticQuiz/ArithmeticQuizTests/bin/Debug/ArithmeticQuizTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ArithmeticQuizTests.RandomGeneratorTests, ArithmeticQuizTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIfStartPointExists" />
+    </UnitTest>
+    <UnitTest name="TestIfEndPointExists" storage="c:\wells fargo\git\tdd_arithmeticquiz\arithmeticquiz\arithmeticquiztests\bin\debug\arithmeticquiztests.dll" id="0e40b9bd-dcaf-b7b5-edfa-454025281dfb">
+      <Execution id="6b7d14d2-d982-45b4-8a1b-3d20603d76aa" />
+      <TestMethod codeBase="C:/wells Fargo/Git/TDD_ArithmeticQuiz/ArithmeticQuiz/ArithmeticQuizTests/bin/Debug/ArithmeticQuizTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ArithmeticQuizTests.RandomGeneratorTests, ArithmeticQuizTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIfEndPointExists" />
+    </UnitTest>
+    <UnitTest name="TestIfNoOfRandomCountsExists" storage="c:\wells fargo\git\tdd_arithmeticquiz\arithmeticquiz\arithmeticquiztests\bin\debug\arithmeticquiztests.dll" id="36e4c1e7-1bfc-2311-9ea4-fb8b79ec2df8">
+      <Execution id="aad322f5-d6cf-4d7d-8b70-19a399d2a5ad" />
+      <TestMethod codeBase="C:/wells Fargo/Git/TDD_ArithmeticQuiz/ArithmeticQuiz/ArithmeticQuizTests/bin/Debug/ArithmeticQuizTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ArithmeticQuizTests.RandomGeneratorTests, ArithmeticQuizTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIfNoOfRandomCountsExists" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0e40b9bd-dcaf-b7b5-edfa-454025281dfb" executionId="6b7d14d2-d982-45b4-8a1b-3d20603d76aa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="36e4c1e7-1bfc-2311-9ea4-fb8b79ec2df8" executionId="aad322f5-d6cf-4d7d-8b70-19a399d2a5ad" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="92daae77-59eb-29b4-38e0-38c2ca6f7558" executionId="f1e2e627-1617-49f8-b016-a85f9a5a9f74" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6b7d14d2-d982-45b4-8a1b-3d20603d76aa" testId="0e40b9bd-dcaf-b7b5-edfa-454025281dfb" testName="TestIfEndPointExists" computerName="ADMIN-PC" duration="00:00:00.0177086" startTime="2015-10-09T09:53:25.9304083+05:30" endTime="2015-10-09T09:53:26.0394146+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6b7d14d2-d982-45b4-8a1b-3d20603d76aa">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreNotEqual failed. Expected any value except:&lt;0&gt;. Actual:&lt;0&gt;. </Message>
+          <StackTrace>   at ArithmeticQuizTests.RandomGeneratorTests.TestIfEndPointExists() in C:\wells Fargo\Git\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuizTests\RandomGeneratorTests.cs:line 34
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="aad322f5-d6cf-4d7d-8b70-19a399d2a5ad" testId="36e4c1e7-1bfc-2311-9ea4-fb8b79ec2df8" testName="TestIfNoOfRandomCountsExists" computerName="ADMIN-PC" duration="00:00:00.0002831" startTime="2015-10-09T09:53:26.0404146+05:30" endTime="2015-10-09T09:53:26.0444149+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aad322f5-d6cf-4d7d-8b70-19a399d2a5ad">
+    </UnitTestResult>
+    <UnitTestResult executionId="f1e2e627-1617-49f8-b016-a85f9a5a9f74" testId="92daae77-59eb-29b4-38e0-38c2ca6f7558" testName="TestIfStartPointExists" computerName="ADMIN-PC" duration="00:00:00.0012524" startTime="2015-10-09T09:53:26.0484151+05:30" endTime="2015-10-09T09:53:26.0514153+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f1e2e627-1617-49f8-b016-a85f9a5a9f74">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreNotEqual failed. Expected any value except:&lt;0&gt;. Actual:&lt;0&gt;. </Message>
+          <StackTrace>   at ArithmeticQuizTests.RandomGeneratorTests.TestIfStartPointExists() in C:\wells Fargo\Git\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuizTests\RandomGeneratorTests.cs:line 28
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

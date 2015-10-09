@@ -1,0 +1,7 @@
+C:\wells Fargo\Git\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuizTests\bin\Debug\ArithmeticQuizTests.dll
+C:\wells Fargo\Git\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuizTests\bin\Debug\ArithmeticQuizTests.pdb
+C:\wells Fargo\Git\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuizTests\bin\Debug\ArithmeticQuiz.dll
+C:\wells Fargo\Git\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuizTests\bin\Debug\ArithmeticQuiz.pdb
+C:\wells Fargo\Git\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuizTests\obj\Debug\ArithmeticQuizTests.csprojResolveAssemblyReference.cache
+C:\wells Fargo\Git\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuizTests\obj\Debug\ArithmeticQuizTests.dll
+C:\wells Fargo\Git\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuizTests\obj\Debug\ArithmeticQuizTests.pdb

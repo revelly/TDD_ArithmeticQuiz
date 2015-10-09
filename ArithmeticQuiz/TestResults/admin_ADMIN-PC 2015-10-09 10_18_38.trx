@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="29217f10-e350-4100-9d62-e03bc51409c3" name="admin@ADMIN-PC 2015-10-09 10:18:38" runUser="admin-PC\admin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="e94d40cc-ba1c-49e7-b953-c9a79a8d36ef">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="admin_ADMIN-PC 2015-10-09 10_18_38">
+      <DeploymentItem filename="C:\wells Fargo\Git\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuiz\bin\Debug\ArithmeticQuiz.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-10-09T10:18:38.9669491+05:30" queuing="2015-10-09T10:18:39.0439535+05:30" start="2015-10-09T10:18:39.0659547+05:30" finish="2015-10-09T10:18:39.4109745+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestIfStartPointExists" storage="c:\wells fargo\git\tdd_arithmeticquiz\arithmeticquiz\arithmeticquiztests\bin\debug\arithmeticquiztests.dll" id="92daae77-59eb-29b4-38e0-38c2ca6f7558">
+      <Execution id="5f67412b-a253-4e22-abb4-0bf46e90308e" />
+      <TestMethod codeBase="C:/wells Fargo/Git/TDD_ArithmeticQuiz/ArithmeticQuiz/ArithmeticQuizTests/bin/Debug/ArithmeticQuizTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ArithmeticQuizTests.RandomGeneratorTests, ArithmeticQuizTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIfStartPointExists" />
+    </UnitTest>
+    <UnitTest name="TestIfgetRandomNumbersReturnsLengthAsNoOfRandomCounts" storage="c:\wells fargo\git\tdd_arithmeticquiz\arithmeticquiz\arithmeticquiztests\bin\debug\arithmeticquiztests.dll" id="c8ad1c75-8955-848c-778f-b054f84aecbb">
+      <Execution id="bf9e887f-b178-4808-98bd-0a615640cbd1" />
+      <TestMethod codeBase="C:/wells Fargo/Git/TDD_ArithmeticQuiz/ArithmeticQuiz/ArithmeticQuizTests/bin/Debug/ArithmeticQuizTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ArithmeticQuizTests.RandomGeneratorTests, ArithmeticQuizTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIfgetRandomNumbersReturnsLengthAsNoOfRandomCounts" />
+    </UnitTest>
+    <UnitTest name="TestIfEndPointExists" storage="c:\wells fargo\git\tdd_arithmeticquiz\arithmeticquiz\arithmeticquiztests\bin\debug\arithmeticquiztests.dll" id="0e40b9bd-dcaf-b7b5-edfa-454025281dfb">
+      <Execution id="a42c79e1-77dc-48e3-8826-9e882899e050" />
+      <TestMethod codeBase="C:/wells Fargo/Git/TDD_ArithmeticQuiz/ArithmeticQuiz/ArithmeticQuizTests/bin/Debug/ArithmeticQuizTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ArithmeticQuizTests.RandomGeneratorTests, ArithmeticQuizTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIfEndPointExists" />
+    </UnitTest>
+    <UnitTest name="TestIfStartPointIsLessThanEndPointThrowException" storage="c:\wells fargo\git\tdd_arithmeticquiz\arithmeticquiz\arithmeticquiztests\bin\debug\arithmeticquiztests.dll" id="a9049e13-e6e7-21b2-e522-c0575528519e">
+      <Execution id="51b7522a-ed8e-4b8d-949f-119822577b69" />
+      <TestMethod codeBase="C:/wells Fargo/Git/TDD_ArithmeticQuiz/ArithmeticQuiz/ArithmeticQuizTests/bin/Debug/ArithmeticQuizTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ArithmeticQuizTests.RandomGeneratorTests, ArithmeticQuizTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIfStartPointIsLessThanEndPointThrowException" />
+    </UnitTest>
+    <UnitTest name="TestIfNoOfRandomCountsExists" storage="c:\wells fargo\git\tdd_arithmeticquiz\arithmeticquiz\arithmeticquiztests\bin\debug\arithmeticquiztests.dll" id="36e4c1e7-1bfc-2311-9ea4-fb8b79ec2df8">
+      <Execution id="943cae23-274e-49ab-b20a-a8a41d01bf87" />
+      <TestMethod codeBase="C:/wells Fargo/Git/TDD_ArithmeticQuiz/ArithmeticQuiz/ArithmeticQuizTests/bin/Debug/ArithmeticQuizTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ArithmeticQuizTests.RandomGeneratorTests, ArithmeticQuizTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIfNoOfRandomCountsExists" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0e40b9bd-dcaf-b7b5-edfa-454025281dfb" executionId="a42c79e1-77dc-48e3-8826-9e882899e050" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="36e4c1e7-1bfc-2311-9ea4-fb8b79ec2df8" executionId="943cae23-274e-49ab-b20a-a8a41d01bf87" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="92daae77-59eb-29b4-38e0-38c2ca6f7558" executionId="5f67412b-a253-4e22-abb4-0bf46e90308e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a9049e13-e6e7-21b2-e522-c0575528519e" executionId="51b7522a-ed8e-4b8d-949f-119822577b69" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c8ad1c75-8955-848c-778f-b054f84aecbb" executionId="bf9e887f-b178-4808-98bd-0a615640cbd1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a42c79e1-77dc-48e3-8826-9e882899e050" testId="0e40b9bd-dcaf-b7b5-edfa-454025281dfb" testName="TestIfEndPointExists" computerName="ADMIN-PC" duration="00:00:00.0114934" startTime="2015-10-09T10:18:39.0699550+05:30" endTime="2015-10-09T10:18:39.2169634+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a42c79e1-77dc-48e3-8826-9e882899e050">
+    </UnitTestResult>
+    <UnitTestResult executionId="943cae23-274e-49ab-b20a-a8a41d01bf87" testId="36e4c1e7-1bfc-2311-9ea4-fb8b79ec2df8" testName="TestIfNoOfRandomCountsExists" computerName="ADMIN-PC" duration="00:00:00.0002149" startTime="2015-10-09T10:18:39.2169634+05:30" endTime="2015-10-09T10:18:39.2229637+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="943cae23-274e-49ab-b20a-a8a41d01bf87">
+    </UnitTestResult>
+    <UnitTestResult executionId="5f67412b-a253-4e22-abb4-0bf46e90308e" testId="92daae77-59eb-29b4-38e0-38c2ca6f7558" testName="TestIfStartPointExists" computerName="ADMIN-PC" duration="00:00:00.0001838" startTime="2015-10-09T10:18:39.2239638+05:30" endTime="2015-10-09T10:18:39.2269639+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5f67412b-a253-4e22-abb4-0bf46e90308e">
+    </UnitTestResult>
+    <UnitTestResult executionId="51b7522a-ed8e-4b8d-949f-119822577b69" testId="a9049e13-e6e7-21b2-e522-c0575528519e" testName="TestIfStartPointIsLessThanEndPointThrowException" computerName="ADMIN-PC" duration="00:00:00.0022217" startTime="2015-10-09T10:18:39.2279640+05:30" endTime="2015-10-09T10:18:39.2339643+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="51b7522a-ed8e-4b8d-949f-119822577b69">
+    </UnitTestResult>
+    <UnitTestResult executionId="bf9e887f-b178-4808-98bd-0a615640cbd1" testId="c8ad1c75-8955-848c-778f-b054f84aecbb" testName="TestIfgetRandomNumbersReturnsLengthAsNoOfRandomCounts" computerName="ADMIN-PC" duration="00:00:00.1395701" startTime="2015-10-09T10:18:39.2349644+05:30" endTime="2015-10-09T10:18:39.3779726+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bf9e887f-b178-4808-98bd-0a615640cbd1">
+    </UnitTestResult>
+  </Results>
+</TestRun>

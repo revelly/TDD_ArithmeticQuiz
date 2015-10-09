@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="74679ef4-7850-460b-bca8-dc0e63adebef" name="admin@ADMIN-PC 2015-10-09 10:06:17" runUser="admin-PC\admin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="e94d40cc-ba1c-49e7-b953-c9a79a8d36ef">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="admin_ADMIN-PC 2015-10-09 10_06_17">
+      <DeploymentItem filename="C:\wells Fargo\Git\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuiz\bin\Debug\ArithmeticQuiz.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-10-09T10:06:17.6745496+05:30" queuing="2015-10-09T10:06:17.6815500+05:30" start="2015-10-09T10:06:17.6855502+05:30" finish="2015-10-09T10:06:17.8385590+05:30" />
+  <ResultSummary outcome="Failed">
+    <Counters total="4" executed="4" passed="3" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestIfStartPointExists" storage="c:\wells fargo\git\tdd_arithmeticquiz\arithmeticquiz\arithmeticquiztests\bin\debug\arithmeticquiztests.dll" id="92daae77-59eb-29b4-38e0-38c2ca6f7558">
+      <Execution id="5f0a5322-734b-4fe1-bf4c-f3a66f2747ee" />
+      <TestMethod codeBase="C:/wells Fargo/Git/TDD_ArithmeticQuiz/ArithmeticQuiz/ArithmeticQuizTests/bin/Debug/ArithmeticQuizTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ArithmeticQuizTests.RandomGeneratorTests, ArithmeticQuizTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIfStartPointExists" />
+    </UnitTest>
+    <UnitTest name="TestIfEndPointExists" storage="c:\wells fargo\git\tdd_arithmeticquiz\arithmeticquiz\arithmeticquiztests\bin\debug\arithmeticquiztests.dll" id="0e40b9bd-dcaf-b7b5-edfa-454025281dfb">
+      <Execution id="9e0667c7-a2bd-4dfe-9997-36dc31723788" />
+      <TestMethod codeBase="C:/wells Fargo/Git/TDD_ArithmeticQuiz/ArithmeticQuiz/ArithmeticQuizTests/bin/Debug/ArithmeticQuizTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ArithmeticQuizTests.RandomGeneratorTests, ArithmeticQuizTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIfEndPointExists" />
+    </UnitTest>
+    <UnitTest name="TestIfStartPointIsLessThanEndPointThrowException" storage="c:\wells fargo\git\tdd_arithmeticquiz\arithmeticquiz\arithmeticquiztests\bin\debug\arithmeticquiztests.dll" id="a9049e13-e6e7-21b2-e522-c0575528519e">
+      <Execution id="93bd55c1-c4f1-4749-8217-8dbca69275da" />
+      <TestMethod codeBase="C:/wells Fargo/Git/TDD_ArithmeticQuiz/ArithmeticQuiz/ArithmeticQuizTests/bin/Debug/ArithmeticQuizTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ArithmeticQuizTests.RandomGeneratorTests, ArithmeticQuizTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIfStartPointIsLessThanEndPointThrowException" />
+    </UnitTest>
+    <UnitTest name="TestIfNoOfRandomCountsExists" storage="c:\wells fargo\git\tdd_arithmeticquiz\arithmeticquiz\arithmeticquiztests\bin\debug\arithmeticquiztests.dll" id="36e4c1e7-1bfc-2311-9ea4-fb8b79ec2df8">
+      <Execution id="04023af6-0cb1-46f4-ba22-16b5afc78286" />
+      <TestMethod codeBase="C:/wells Fargo/Git/TDD_ArithmeticQuiz/ArithmeticQuiz/ArithmeticQuizTests/bin/Debug/ArithmeticQuizTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ArithmeticQuizTests.RandomGeneratorTests, ArithmeticQuizTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIfNoOfRandomCountsExists" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0e40b9bd-dcaf-b7b5-edfa-454025281dfb" executionId="9e0667c7-a2bd-4dfe-9997-36dc31723788" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="36e4c1e7-1bfc-2311-9ea4-fb8b79ec2df8" executionId="04023af6-0cb1-46f4-ba22-16b5afc78286" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="92daae77-59eb-29b4-38e0-38c2ca6f7558" executionId="5f0a5322-734b-4fe1-bf4c-f3a66f2747ee" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a9049e13-e6e7-21b2-e522-c0575528519e" executionId="93bd55c1-c4f1-4749-8217-8dbca69275da" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9e0667c7-a2bd-4dfe-9997-36dc31723788" testId="0e40b9bd-dcaf-b7b5-edfa-454025281dfb" testName="TestIfEndPointExists" computerName="ADMIN-PC" duration="00:00:00.0123165" startTime="2015-10-09T10:06:17.6995510+05:30" endTime="2015-10-09T10:06:17.8095573+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9e0667c7-a2bd-4dfe-9997-36dc31723788">
+    </UnitTestResult>
+    <UnitTestResult executionId="04023af6-0cb1-46f4-ba22-16b5afc78286" testId="36e4c1e7-1bfc-2311-9ea4-fb8b79ec2df8" testName="TestIfNoOfRandomCountsExists" computerName="ADMIN-PC" duration="00:00:00.0001704" startTime="2015-10-09T10:06:17.8115574+05:30" endTime="2015-10-09T10:06:17.8135575+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="04023af6-0cb1-46f4-ba22-16b5afc78286">
+    </UnitTestResult>
+    <UnitTestResult executionId="5f0a5322-734b-4fe1-bf4c-f3a66f2747ee" testId="92daae77-59eb-29b4-38e0-38c2ca6f7558" testName="TestIfStartPointExists" computerName="ADMIN-PC" duration="00:00:00.0001642" startTime="2015-10-09T10:06:17.8155576+05:30" endTime="2015-10-09T10:06:17.8175578+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5f0a5322-734b-4fe1-bf4c-f3a66f2747ee">
+    </UnitTestResult>
+    <UnitTestResult executionId="93bd55c1-c4f1-4749-8217-8dbca69275da" testId="a9049e13-e6e7-21b2-e522-c0575528519e" testName="TestIfStartPointIsLessThanEndPointThrowException" computerName="ADMIN-PC" duration="00:00:00.0069430" startTime="2015-10-09T10:06:17.8195579+05:30" endTime="2015-10-09T10:06:17.8285584+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="93bd55c1-c4f1-4749-8217-8dbca69275da">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method ArithmeticQuizTests.RandomGeneratorTests.TestIfStartPointIsLessThanEndPointThrowException did not throw expected exception System.Exception.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

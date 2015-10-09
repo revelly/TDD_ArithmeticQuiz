@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="2440814f-e3a9-4a82-8612-0ec956aeecfd" name="admin@ADMIN-PC 2015-10-09 10:01:31" runUser="admin-PC\admin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="e94d40cc-ba1c-49e7-b953-c9a79a8d36ef">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="admin_ADMIN-PC 2015-10-09 10_01_31">
+      <DeploymentItem filename="C:\wells Fargo\Git\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuiz\bin\Debug\ArithmeticQuiz.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-10-09T10:01:31.5711854+05:30" queuing="2015-10-09T10:01:31.5851862+05:30" start="2015-10-09T10:01:31.6031872+05:30" finish="2015-10-09T10:01:34.9043760+05:30" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="1" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestIfStartPointIsLessThanEndPointThrowException" storage="c:\wells fargo\git\tdd_arithmeticquiz\arithmeticquiz\arithmeticquiztests\bin\debug\arithmeticquiztests.dll" id="a9049e13-e6e7-21b2-e522-c0575528519e">
+      <Execution id="c38621fb-53ae-41aa-84f7-a013280da681" />
+      <TestMethod codeBase="C:/wells Fargo/Git/TDD_ArithmeticQuiz/ArithmeticQuiz/ArithmeticQuizTests/bin/Debug/ArithmeticQuizTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ArithmeticQuizTests.RandomGeneratorTests, ArithmeticQuizTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIfStartPointIsLessThanEndPointThrowException" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="a9049e13-e6e7-21b2-e522-c0575528519e" executionId="c38621fb-53ae-41aa-84f7-a013280da681" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c38621fb-53ae-41aa-84f7-a013280da681" testId="a9049e13-e6e7-21b2-e522-c0575528519e" testName="TestIfStartPointIsLessThanEndPointThrowException" computerName="ADMIN-PC" startTime="2015-10-09T10:01:31.6101876+05:30" endTime="2015-10-09T10:01:34.8963756+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c38621fb-53ae-41aa-84f7-a013280da681">
+      <Output>
+        <ErrorInfo>
+          <Message>The agent process was stopped while the test was running.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
