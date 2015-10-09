@@ -43,8 +43,10 @@
     <Compile Include="ArithmeticQuiz.cs" />
     <Compile Include="IQuestion.cs" />
     <Compile Include="IQuestionBank.cs" />
+    <Compile Include="IQuestionnaireRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Question.cs" />
+    <Compile Include="QuestionBank.cs" />
     <Compile Include="QuestionWithMultiChoice.cs" />
     <Compile Include="RandomGenerator.cs" />
   </ItemGroup>

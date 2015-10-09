@@ -5,8 +5,8 @@ using System.Text;
 
 namespace ArithmeticQuiz
 {
-    public interface IQuestionBank
+    interface IQuestionnaireRepository
     {
-        List<Question> getQuestions();
+        
     }
 }
