@@ -1,0 +1,4 @@
+C:\wells Fargo\Git\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuiz\bin\Debug\ArithmeticQuiz.dll
+C:\wells Fargo\Git\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuiz\bin\Debug\ArithmeticQuiz.pdb
+C:\wells Fargo\Git\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuiz\obj\Debug\ArithmeticQuiz.dll
+C:\wells Fargo\Git\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuiz\obj\Debug\ArithmeticQuiz.pdb
