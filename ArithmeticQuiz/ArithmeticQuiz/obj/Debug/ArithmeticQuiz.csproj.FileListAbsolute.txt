@@ -3,3 +3,10 @@ C:\wells Fargo\Git\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuiz\bin\Debug\Ar
 C:\wells Fargo\Git\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuiz\obj\Debug\ArithmeticQuiz.dll
 C:\wells Fargo\Git\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuiz\obj\Debug\ArithmeticQuiz.pdb
 C:\wells Fargo\Git\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuiz\obj\Debug\ArithmeticQuiz.csprojResolveAssemblyReference.cache
+C:\TDDTraining\Day4\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuiz\bin\Debug\ArithmeticQuiz.dll
+C:\TDDTraining\Day4\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuiz\bin\Debug\ArithmeticQuiz.pdb
+C:\TDDTraining\Day4\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuiz\obj\Debug\ResolveAssemblyReference.cache
+C:\TDDTraining\Day4\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuiz\obj\Debug\ArithmeticQuiz.dll
+C:\TDDTraining\Day4\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuiz\obj\Debug\ArithmeticQuiz.pdb
+C:\TDDTraining\Day4\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuiz\bin\Debug\Newtonsoft.Json.dll
+C:\TDDTraining\Day4\TDD_ArithmeticQuiz\ArithmeticQuiz\ArithmeticQuiz\bin\Debug\Newtonsoft.Json.xml
